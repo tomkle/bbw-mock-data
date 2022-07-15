@@ -1,0 +1,17 @@
+{
+  "name": "Blue Billywig",
+  "lists": [
+    {
+      "name": "Clipt titles",
+      "path": "clip-titles.txt"
+    },
+    {
+      "name": "Duration",
+      "path": "duration.txt"
+    },
+    {
+      "name": "ID",
+      "path": "id.txt"
+    }
+  ]
+}
