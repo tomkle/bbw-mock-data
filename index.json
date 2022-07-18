@@ -12,6 +12,10 @@
     {
       "name": "ID",
       "path": "id.txt"
+    },
+    {
+      "name": "Project names",
+      "path": "projects.txt"
     }
   ]
 }
