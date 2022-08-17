@@ -35,10 +35,10 @@ Add a new category to the bottom of the lists section:
       "name": "Names",
       "path": "names.txt"
     },
-    {
-      <b>"name": "New category",</b>
+    <b>{
+      "name": "New category",
       "path": "new-category.txt"
-    }
+    }</b>
   ]
 }
 </pre>
