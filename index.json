@@ -20,6 +20,10 @@
     {
       "name": "Names",
       "path": "names.txt"
+    },
+    {
+      "name": "Chapters",
+      "path": "chapters.txt"
     }
   ]
 }
