@@ -24,6 +24,10 @@
     {
       "name": "Chapters",
       "path": "chapters.txt"
+    },
+    {
+      "name": "Emails",
+      "path": "email.txt"
     }
   ]
 }
