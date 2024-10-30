@@ -18,6 +18,10 @@
       "path": "projects.txt"
     },
     {
+      "name": "Playlists",
+      "path": "playlists.txt"
+    },
+    {
       "name": "Names",
       "path": "names.txt"
     },
