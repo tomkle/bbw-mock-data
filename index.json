@@ -10,6 +10,10 @@
       "path": "duration.txt"
     },
     {
+      "name": "Episode duration",
+      "path": "episode-duration.txt"
+    },
+    {
       "name": "Shorts duration",
       "path": "shorts-duration.txt"
     },
