@@ -2,19 +2,19 @@
   "name": "Blue Billywig",
   "lists": [
     {
-      "name": "Clipt titles (Food)",
+      "name": "Clipt titles Food",
       "path": "clip-titles-food.txt"
     },
     {
-      "name": "Clipt titles (Sports)",
+      "name": "Clipt titles Sports",
       "path": "clip-titles-sports.txt"
     },
     {
-      "name": "Clipt titles (Health)",
+      "name": "Clipt titles Health",
       "path": "clip-titles-health.txt"
     },
     {
-      "name": "Clipt titles (Travel)",
+      "name": "Clipt titles Travel",
       "path": "clip-titles-travel.txt"
     },
     {
